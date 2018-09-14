@@ -13,7 +13,39 @@
 <body>
 <?php include ("header.php") ?>
 
-<p>TON CODE ICI</p>
+<form action="/form.php" method="post">
+    <div>
+        <label for="name">Nom :</label>
+        <input type="text" id="name" name="user_name" required>
+    </div>
+    <div>
+        <label for="tel">Tel :</label>
+        <input type="tel" id="tel" name="user_tel" required>
+    </div>
+    <div>
+        <label for="mail">e-mail :</label>
+        <input type="email" id="mail" name="user_mail" required>
+    </div>
+
+    <div>
+        <label for="name">Sujet</label>
+        <select name="Sujet :">
+            <option value="reclamation">Reclamation</option>
+            <option value="Adventure">Adventure</option>
+            <option value="Solution">Solution</option>
+            <option value="Deleted">deleted</option>
+        </select></div>
+    <div>
+        <label for="msg">Message :</label>
+        <textarea id="msg" name="user_message"></textarea>
+    </div>
+    <!-- INsert botuum "send"-->
+
+    <div class="button">
+        <button type="submit">Envoyer le message</button>
+    </div>
+
+</form>>
 
 <?php include("footer.php") ?>
 
