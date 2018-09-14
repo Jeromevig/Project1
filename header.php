@@ -6,13 +6,13 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="/index.php">Presentation</a>
+        <a class="nav-link" href="index.php">Presentation</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/students_page.php">Students</a>
+        <a class="nav-link" href="students_page.php">Students</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/trainers_page.php">Trainers</a>
+        <a class="nav-link" href="trainers_page.php">Trainers</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="euratech_page.php">EuraTechnologies</a>
