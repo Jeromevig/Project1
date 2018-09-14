@@ -1,0 +1,62 @@
+body {
+   background-color:#FFC0CB;/*#FFB6C1   #FFC0CB*/
+	padding-top:70px;
+}
+
+/* How to change the bootstrap 4 NAVBAR background color ? */
+.navbar {
+	background-color: #000 !important;
+}
+.navbar .navbar-brand {
+	color : #FFF;
+}
+.navbar .navbar-brand:hover {
+	color : #FF1493;
+}
+.navbar .navbar-nav li a {
+	color : #FF1493 !important;
+}
+.navbar .navbar-nav li a:hover {
+	color : #FFF !important;
+	background-color : #FF1493;
+	border-radius: 10px;
+	font-weight: bold;
+}
+/* In case of dropdown-menu */
+.navbar .nav-item .dropdown-menu .dropdown-item {
+	color : red !important;
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover {
+	color : #fff !important;
+	background-color: black;
+	opacity: 0.5; 
+}
+/* End case of dropdown-menu */
+
+.navbar-toggler {
+	background-color : #FF1493;
+}
+.navbar span {
+	color:#FF1493;
+}
+/* END How to change Navbar */
+
+
+/* Footer */
+#footer {
+   	position: relative;
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	background-color: black;
+   	text-align: center;
+	padding-top: 20px;
+}
+#footer p {
+	color:#FF1493;
+}
+
+
+
+
+
