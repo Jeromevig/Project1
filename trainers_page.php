@@ -7,6 +7,7 @@
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="src/bootstrap-4.1.3/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="styletrainers.css">
         <title>Project 1 - Group Noobs</title>
     </head>
     <body>
