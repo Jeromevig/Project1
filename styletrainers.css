@@ -1,4 +1,47 @@
-body
+.row
 {
-background-color:yellow;
+	margin-top:-80px;
+}
+
+.cadre
+{
+	background:url("public/trainerssrc/ymca.gif");
+	background-size:100% 100%;
+	height:620px;
+	display:flex;
+	flex-direction:row;
+}
+
+.thetrainers
+{
+
+font-size:8.0em;
+font-weight:bold;
+padding-top:60px;
+font-family:'mypolice';
+background:url("public/trainerssrc/feather.jpg");
+height:350px;
+background-size:100% 100%;
+}
+
+@font-face{font-family:'mypolice';
+			src : url('public/trainerssrc/Filxgirl.TTF');
+}
+
+.formator1
+{
+	width:350px;
+	height:500px;
+	background:url('public/trainerssrc/cadre.png');
+	background-size:100% 100%;
+	margin-left:10%;
+	margin-top:60px;
+}
+
+.Olivier1block
+{
+	background-color:white;
+	height:400px;
+	margin-top:80px;
+	
 }
