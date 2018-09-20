@@ -14,34 +14,40 @@
 <?php include ("header.php") ?>
 
 <div class="container">
-    <div class="row jumbotron">
+    <div class="row">
+        <div class="col">
+            <img src="/public/kangourou.gif" alt="Kangourou">
+        </div>
+
         <form name="contactform" method="POST" action="send_form_email.php">
-            <div>
+            <div class="form-group">
                 <label for="first_name">First Name :</label>
                 <input type="text" id="first_name" name="first_name" required>
             </div>
 
-            <div>
+            <div class="form-group">
                 <label for="last_name">Last Name :</label>
                 <input type="text" id="last_name" name="last_name" required>
             </div>
 
-            <div>
+            <div class="form-group">
                 <label for="email">e-mail :</label>
                 <input type="email" id="email" name="email" required>
             </div>
 
-            <div>
+            <div class="form-group">
                 <label for="telephone">Telephone</label>
                 <input type="text" id="telephone" name="telephone" required>
             </div>
 
-            <div>
+            <div class="form-group">
                 <label for="comments">Comments :</label>
                 <textarea id="comments" name="comments" required></textarea>
             </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-info" value="Submit">
+            </div>
 
-            <input type="submit" class="btn btn-info" value="Submit">
         </form>
     </div>
 </div>
