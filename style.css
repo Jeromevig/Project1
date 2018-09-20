@@ -3,6 +3,10 @@ body {
 	padding-top:70px;
 }
 
+.pink_span {
+	color: deeppink;
+}
+
 /* How to change the bootstrap 4 NAVBAR background color ? */
 .navbar {
 	background-color: #000 !important;
@@ -76,7 +80,7 @@ body {
 }
 
 /* CSS Form*/
-<style>form {
+form {
 	 /* Uniquement centrer le formulaire sur la page */
 	 margin: 0 auto;
 	 width: 400px;
@@ -85,6 +89,12 @@ body {
 	 border: 1px solid #CCC;
 	 border-radius: 1em;
  }
+/* Presentation page */
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 /* Trainers page */
 .trainers
@@ -110,7 +120,7 @@ body {
 	width:15%;
 	height:200px;
 	border:2px black solid;
-	background:url(anony.png);
+	background:url(public/anony.png);
 	background-size:100% 100%;
 	overflow:hidden;
 }
@@ -212,7 +222,8 @@ textarea {
 button {
 	/* Cette marge supplémentaire représente grosso modo le même espace que celui
        entre les étiquettes et les champs texte */
-	margin-left: .5em;</style>
+	margin-left: .5em;
+}
 
 /* End CSS form*/
 
