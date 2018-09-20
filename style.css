@@ -1,5 +1,5 @@
 body {
-   background-color:#FFC0CB;/*#FFB6C1   #FFC0CB*/
+   	background-color:#FFC0CB;/*#FFB6C1   #FFC0CB*/
 	padding-top:70px;
 }
 
@@ -7,25 +7,31 @@ body {
 .navbar {
 	background-color: #000 !important;
 }
+
 .navbar .navbar-brand {
 	color : #FFF;
 }
+
 .navbar .navbar-brand:hover {
 	color : #FF1493;
 }
+
 .navbar .navbar-nav li a {
 	color : #FF1493 !important;
 }
+
 .navbar .navbar-nav li a:hover {
 	color : #FFF !important;
 	background-color : #FF1493;
 	border-radius: 10px;
 	font-weight: bold;
 }
+
 /* In case of dropdown-menu */
 .navbar .nav-item .dropdown-menu .dropdown-item {
 	color : red !important;
 }
+
 .navbar .nav-item .dropdown-menu .dropdown-item:hover {
 	color : #fff !important;
 	background-color: black;
@@ -36,13 +42,25 @@ body {
 .navbar-toggler {
 	background-color : #FF1493;
 }
+
 .navbar span {
 	color:#FF1493;
 }
+
 /* END How to change Navbar */
 
+/* General */
+.background_case {
+	background-color: #000000;
+	color: #FFFFFF;
+	border-radius: 20px;
+}
 
-/* Footer */
+#presentation h2 {
+	color: #FF1493;
+}
+
+	/* Footer */
 #footer {
    	position: relative;
    	left: 0;
@@ -52,12 +70,12 @@ body {
    	text-align: center;
 	padding-top: 20px;
 }
+
 #footer p {
 	color:#FF1493;
 }
 
 /* CSS Form*/
-
 <style>form {
 	 /* Uniquement centrer le formulaire sur la page */
 	 margin: 0 auto;
@@ -69,7 +87,6 @@ body {
  }
 
 /* Trainers page */
-
 .trainers
 {
 	padding-top:60px;
@@ -118,13 +135,6 @@ body {
 	border-bottom:2px black solid;
 	background-color:rgb(86,77,75);
 	overflow:hidden;
-}
-
-img
-{
-	width:180px;
-	height:180px;
-	
 }
 
 .heading
