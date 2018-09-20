@@ -11,7 +11,7 @@
         <title>Project 1 - Group Noobs</title>
     </head>
     <body>
-    <?php include ("header.php") ?>
+	<?php include ("header.php") ?>    
 
      <div class="container-fluid"> 
 		<div class="row trainers" style="overflow:hidden;">
@@ -20,52 +20,83 @@
 		 <div class="row">
             <div class="col-12  cadre">
 			 	<div class="formator1">
-					<img src="public/trainerssrc/gaetan.jpeg" style="margin-top:40px; margin-left:40px; width:80%; height:300px;"/>
+					<img src="public/trainerssrc/gaetan.jpeg" class="pix"/>
 				</div>
 				<div class="formator1">
-					
+					<img src="public/trainerssrc/olivier.jpg" class="pix"/>
 				</div>
 				<div class="formator1">
-					
+					<img src="public/trainerssrc/loic.jpeg" class="pix"/>
 				</div>
 			 </div>
         </div>
 		 
-		 <div class="row">
+		 <div class="row" style="margin-top:20px;">
             <div class="col-12  Olivier1block">
-			 	<div class="col-4" style="padding-left:4%; padding-top:4%;">
-					<div>
+			 	<div class="col-3" style="padding-left:4%; padding-top:4%;">
+					<div style="position:relative;">
 						<img src="public/trainerssrc/gaetan.jpeg" style="border:5px black solid; border-radius:11px 11px 11px 11px;"/>
+						<img src="public/trainerssrc/clickhere.png" class="clickhere"/>
 					</div>
 				</div>
-				<div class="col-6" style="padding-left:10%; padding-top:10%;">
+				<div class="col-4  square" style="padding:17px;">
+					<div class="adopte">
+						<div class="col-12" style="border-bottom:3px black solid; height:50px;">
+						</div>
+						<div class="col-12" style="border-bottom:3px black solid; height:100px;">
+						</div>
+						<div class="col-12">
+						</div>
+					</div>
 				</div>
 			 </div>
         	</div>
-		 <div class="row">
+		 
+		  <div class="row">
             <div class="col-12  Olivier1block">
-			 	<div class="col-4" style="padding-left:4%; padding-top:4%;">
-					<div>
-						<img src="public/trainerssrc/gaetan.jpeg" style="border:5px black solid; border-radius:11px 11px 11px 11px;"/>
+				<div class="col-4  square" style="padding:17px;">
+					<div class="adopte">
+						<div class="col-12" style="border-bottom:3px black solid; height:50px;">
+						</div>
+						<div class="col-12" style="border-bottom:3px black solid; height:100px;">
+						</div>
+						<div class="col-12">
+						</div>
 					</div>
 				</div>
-				<div class="col-6" style="padding-left:10%; padding-top:10%;">
+			 	<div class="col-3" style="padding-left:4%; padding-top:4%;">
+					<div style="position:relative;">
+						<img src="public/trainerssrc/gaetan.jpeg" style="border:5px black solid; border-radius:11px 11px 11px 11px;"/>
+						<img src="public/trainerssrc/clickhere.png" class="clickhere"/>
+					</div>
+				</div>
+				
+			 </div>
+        	</div>
+		 
+		 <div class="row">
+            <div class="col-12  Olivier1block">
+			 	<div class="col-3" style="padding-left:4%; padding-top:4%;">
+					<div style="position:relative;">
+						<img src="public/trainerssrc/gaetan.jpeg" style="border:5px black solid; border-radius:11px 11px 11px 11px;"/>
+						<img src="public/trainerssrc/clickhere.png" class="clickhere"/>
+					</div>
+				</div>
+				<div class="col-4  square" style="padding:17px;">
+					<div class="adopte">
+						<div class="col-12" style="border-bottom:3px black solid; height:50px;">
+						</div>
+						<div class="col-12" style="border-bottom:3px black solid; height:100px;">
+						</div>
+						<div class="col-12">
+						</div>
+					</div>
 				</div>
 			 </div>
         	</div>
-		 <div class="row">
-            <div class="col-12  Olivier1block">
-			 	<div class="col-4" style="padding-left:4%; padding-top:4%;">
-					<div>
-						<img src="public/trainerssrc/gaetan.jpeg" style="border:5px black solid; border-radius:11px 11px 11px 11px;"/>
-					</div>
-				</div>
-				<div class="col-6" style="padding-left:10%; padding-top:10%;">
-				</div>
-			 </div>
-        	</div>
-		</div>
-      
+		 
+		 
+		
 
     <?php include("footer.php") ?>
 
