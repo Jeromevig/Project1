@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/src/bootstrap-4.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/bootstrap-4.1.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <title>Project 1 - Group Noobs</title>
 </head>
@@ -67,7 +67,7 @@
                         Recruiting a developer is often a headache for businesses in an ever-changing digital marketplace.<br><br>
                         Since then, the Wild Code School has moved into the market and offers intensive training as a web and/or mobile developer to provide professionals, in a minimum of time, THE Wilders.<br><br>
 
-                        Each Wilder is a rare commodity, a kind of 21st century SUPERHERO.<br>
+                        Each Wilder is a rare commodity, a kind of 21st century <span class="">SUPERHERO.<br>
                         He has powers that other human beings do not possess, including a SUPER-INTELLIGENCE, an extraordinary HUMANISM and a pronounced taste for CLEAN SOCKS.<br><br>
 
                         In this regard, the students of the Wild Code School take off their shoes before entering the school.
