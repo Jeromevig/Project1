@@ -9,15 +9,44 @@
     <link rel="stylesheet" href="style.css">
     <title>Project 1 - Group Noobs</title>
 </head>
+
 <body>
-    <?php include ("header.php") ?>
+<?php include ("header.php") ?>
 
-    <div><p>TON CODE ICI TONTON !</p></div>
+<div class="container">
+    <div class="row jumbotron">
+        <form name="contactform" method="POST" action="send_form_email.php">
+            <div>
+                <label for="first_name">First Name :</label>
+                <input type="text" id="first_name" name="first_name" required>
+            </div>
 
-    <?php include("footer.php") ?>
+            <div>
+                <label for="last_name">Last Name :</label>
+                <input type="text" id="last_name" name="last_name" required>
+            </div>
 
-</body>
+            <div>
+                <label for="email">e-mail :</label>
+                <input type="email" id="email" name="email" required>
+            </div>
 
+            <div>
+                <label for="telephone">Telephone</label>
+                <input type="text" id="telephone" name="telephone" required>
+            </div>
+
+            <div>
+                <label for="comments">Comments :</label>
+                <textarea id="comments" name="comments" required></textarea>
+            </div>
+
+            <input type="submit" class="btn btn-info" value="Submit">
+        </form>
+    </div>
+</div>
+
+<?php include("footer.php") ?>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
