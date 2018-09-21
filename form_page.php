@@ -18,7 +18,7 @@
         <div class="col">
             <img src="/public/kangourou.gif" alt="Kangourou">
         </div>
-      
+
         <form class="col my-auto" name="contactform" method="POST" action="send_form_email.php">
             <div class="form-group">
                 <label for="first_name">First Name :</label>
