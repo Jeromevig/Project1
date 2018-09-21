@@ -131,4 +131,8 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 >>>>>>> bb88f3bfeb5529b93e7189a70b24a148ff654029
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> d8cecaedf75f5ff5e97c006572684ed4ef050296
