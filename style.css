@@ -1,3 +1,13 @@
+
+/*CSS Euratechno page*/
+.card-img-top {
+    height: 200px;
+}
+.jumbotron {
+	background-color: fuchsia;
+}
+
+
 body {
    	background-color:#FFC0CB;/*#FFB6C1   #FFC0CB*/
 	padding-top:70px;
@@ -241,6 +251,6 @@ button {
     display:flex;
 	flex-direction:row-reverse;
   }
-}
 
+}
 
