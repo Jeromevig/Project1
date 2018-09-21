@@ -1,6 +1,11 @@
+/*CSS strudient*/
+#student .card-img-top {
+    width: 33rem;
+	height:auto;
+}
 
 /*CSS Euratechno page*/
-.card-img-top {
+#eura, .card-img-top {
     height: 200px;
 }
 .jumbotron {
@@ -12,6 +17,11 @@ body {
    	background-color:#FFC0CB;/*#FFB6C1   #FFC0CB*/
 	padding-top:70px;
 }
+
+.pink_span {
+	color: deeppink;
+}
+
 
 /* How to change the bootstrap 4 NAVBAR background color ? */
 .navbar {
@@ -85,16 +95,6 @@ body {
 	color:#FF1493;
 }
 
-/* CSS Form*/
-style>form {
-	 /* Uniquement centrer le formulaire sur la page */
-	 margin: 0 auto;
-	 width: 400px;
-	 /* Encadré pour voir les limites du formulaire */
-	 padding: 1em;
-	 border: 1px solid #CCC;
-	 border-radius: 1em;
- }
 
 /* Trainers page */
 .trainers
@@ -222,7 +222,8 @@ textarea {
 button {
 	/* Cette marge supplémentaire représente grosso modo le même espace que celui
        entre les étiquettes et les champs texte */
-	margin-left: .5em;</style>
+	margin-left: .5em;
+}	
 
 /* End CSS form*/
 

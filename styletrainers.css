@@ -3,14 +3,15 @@ body
 padding-top:0px;	
 }
 
-.square
-{
-	display:none;
-}
 
 div
 {
 	overflow:hidden;
+}
+
+.square,.square2,.square3
+{
+	display:none;
 }
 
 .pix
@@ -132,7 +133,7 @@ animation: anime 1s infinite;
 		overflow:visible;
 	}
 	
-	.thetrainers
+.thetrainers
 {
 
 font-size:4.0em;

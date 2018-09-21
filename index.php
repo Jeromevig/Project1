@@ -88,12 +88,12 @@
             </div>
         </section>
 
-        <section id="recruit"
+        <section id="recruit">
             <div class="container">
                 <div class="row">
                     <div class="col-md">
                         <figure>
-                            <img class="img-responsive h-60" src="public/underpantsdance.gif" alt="man_underpants">
+                            <img class="img-responsive w-100 h-60" src="public/underpantsdance.gif" alt="man_underpants">
                             <figcaption style="text-align:center; font-weight:bold;">..::A happy Wilder during work::..</figcaption>
                         </figure>
 
@@ -107,28 +107,26 @@
                 </div>
                 <hr color="black">
             </div>
-<<<<<<< HEAD
         </section>
 
         <?php include("footer.php") ?>
-
+		<script>
+			alert("Be careful you enter a sensitive zone");
+			alert("Are you certain you want to enter here ?");
+			alert("Are you sexy at least ?");
+			alert("Do you want to come with me tonight ?");
+			alert("Are you a girl ?");
+			alert("Hooooo.. a boy ?!");
+			alert("Ok I see, you are really determined..");
+			alert("Ok you can enter !");
+			
+			
+		</script>
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     </body>
-=======
-            <hr color="black">
-        </div>
-    </section>
-
-<?php include("footer.php") ?>
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-</body>
->>>>>>> bb88f3bfeb5529b93e7189a70b24a148ff654029
 </html>
+

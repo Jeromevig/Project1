@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/src/bootstrap-4.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/bootstrap-4.1.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <title>Project 1 - Group Noobs</title>
 </head>
@@ -16,7 +16,7 @@
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="/public/kangourou.gif" alt="Kangourou">
+            <img src="public/kangourou.gif" alt="Kangourou">
         </div>
 
         <form class="col my-auto" name="contactform" method="POST" action="send_form_email.php">
