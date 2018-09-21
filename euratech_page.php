@@ -34,12 +34,6 @@
                             <img class="card-img-top" src="/public/eura1.jpg" alt="euratech">
                             <div class="card-body">
                                 <p class="card-text">Welcome to EuraTechnologie! The Poudlard of love! No Wilders will remain single by entering these places!</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -48,12 +42,6 @@
                             <img class="card-img-top" src="/public/eura2.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">The Atrium, a historic gathering place ... sometimes the screams of desires still reason through the walls.</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -62,12 +50,6 @@
                             <img class="card-img-top" src="/public/eura3.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Because you are a fan of nature ... of Adam and Eve ... come to libertine in the Garden of EuraTechnologie! ...</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -77,12 +59,6 @@
                             <img class="card-img-top" src="/public/eura4.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">IBM or Irresistible Big Masturbation, New euratechnology startup ... innovative in SexToy and sexual robot!!</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -91,12 +67,6 @@
                             <img class="card-img-top" src="/public/eura%205.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Because our community thinks about your health, a pharmacy offers you a wide range of condoms, and goodies ...</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -105,12 +75,6 @@
                             <img class="card-img-top" src="/public/eura6.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">You are single ? Are you looking for an evening adventure? Serious? Come to our private party!</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -120,12 +84,6 @@
                             <img class="card-img-top" src="/public/eura7.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">A meeting, but broke? Do not worry, the Wild Code School will lend you their studio, to get to know each other better..</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -134,12 +92,6 @@
                             <img class="card-img-top" src="/public/eura8.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Gondolas EuraTechnologie .... come to dream your love wilders! During a cruise on the Deule ... Romanticism guaranteed!</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -148,12 +100,6 @@
                             <img class="card-img-top" src="/public/eura9.jpg"" alt="Card image cap">
                             <div class="card-body">
                                 <p class="card-text">Speed Dating Euratech version! First arrived first served! Impossible to change! the night promises to be hot! ... or not!</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    </div>
-                                    <small class="text-muted">9 mins</small>
-                                </div>
                             </div>
                         </div>
                     </div>

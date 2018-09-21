@@ -18,8 +18,8 @@
         <div class="col">
             <img src="/public/kangourou.gif" alt="Kangourou">
         </div>
-
-        <form name="contactform" method="POST" action="send_form_email.php">
+      
+        <form class="col my-auto" name="contactform" method="POST" action="send_form_email.php">
             <div class="form-group">
                 <label for="first_name">First Name :</label>
                 <input type="text" id="first_name" name="first_name" required>
@@ -45,7 +45,7 @@
                 <textarea id="comments" name="comments" required></textarea>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-info" value="Submit">
+                <input type="submit" class="btn btn-info w-100" value="Submit">
             </div>
 
         </form>
